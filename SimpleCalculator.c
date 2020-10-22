@@ -41,6 +41,7 @@ int main()
     printf("Resultado = %.2f", result);
     
     printf("A aula de tópicos é legal");
+    printf("Eu amo a aula de tópicos");
 
     return 0;
 
